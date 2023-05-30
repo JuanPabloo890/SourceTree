@@ -1,0 +1,45 @@
+Que son los getters y getters? 
+Son métodos que nos permiten establecer y obtener información dentro de una clase 
+
+Los constructores nos ayudan a inicializar los atributos de una clase 
+
+Que es una clase? 
+
+Podemos decir que es un objeto en el cual se encuentran atributos y métodos, describe el comportamiento de una serie de objetos. En una clase se puede tener varios métodos, 
+
+Pero solo se podrá usar en esa clase 
+
+Definir las características y comportamientos de una entidad. 
+
+Explique que es un objeto? 
+
+El objeto nos permite modificar dentro de la clase o asignar alguna tarea en especifico  
+
+
+Defina que es un método? 
+
+Son condiciones dadas ya sea a una persona, objetos ejemplo: Juan puede saltar o manejar auto automático y manual 
+
+En pocas palabras son las funciones que puede realizar una persona en concreto o un objeto. 
+
+  
+Defina que es un atributo? 
+
+Son capacidades que tienen las personas como por ejemplo: Velocidad, fuerza 
+
+Son características que brindan las clases 
+
+ 
+This es un puntero que de sí mismo que nos ayuda a optimizar la memoria  
+
+
+¿Qué es un puntero? 
+
+Un  puntero se refiere a la asignación de un dato en espacio memoria 
+
+Variable que almacena la dirección de memoria de un objeto 
+
+ 
+GitHub 
+
+Es un repositorio donde nos permite almacenar diferentes códigos de diferentes programas para utilizarlos o solo leerlos, además de que podemos trabajar en equipo con mucha facilidad  
